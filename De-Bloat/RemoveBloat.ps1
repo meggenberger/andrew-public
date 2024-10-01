@@ -311,7 +311,7 @@ $Bloatware = @(
 "*PandoraMediaInc*"
 "*Royal Revolt*"
 "*Speed Test*"
-"*Spotify*"
+#"*Spotify*"
 "*Sway*"
 "*Twitter*"
 "*Wunderlist*"
@@ -381,7 +381,7 @@ $Bloatware = @(
 "MirametrixInc.GlancebyMirametrix"
 "MSTeams"
 "RealtimeboardInc.RealtimeBoard"
-"SpotifyAB.SpotifyMusic"
+#"SpotifyAB.SpotifyMusic"
 #Optional: Typically not removed but you can if you need to for some reason
 #"*Microsoft.Advertising.Xaml_10.1712.5.0_x64__8wekyb3d8bbwe*"
 #"*Microsoft.Advertising.Xaml_10.1712.5.0_x86__8wekyb3d8bbwe*"
